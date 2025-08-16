@@ -37,4 +37,4 @@ This is a Java-based simulation of dynamic memory allocation using three widely 
 
 ---
 
-## 📄 Sample Input & Output (First Fit Strategy)
+
